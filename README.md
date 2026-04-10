@@ -5,6 +5,7 @@ I am a computer programmer and tech enthusiast focused on building desktop appli
 
 - 💻 **C# Development:** Focused on creating Windows Forms applications with clean UI and functional logic.
 - 🗄️ **Database Management:** Designing and managing SQL Server databases for data-driven applications.
+- 🤖 **Machine Learning:** Exploring data science fundamentals and predictive models.
 - 📐 **Technical Design:** Proficient in AutoCAD for technical drawing and visualization.
 
 ---
@@ -16,6 +17,7 @@ I am a computer programmer and tech enthusiast focused on building desktop appli
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
 
 ---
