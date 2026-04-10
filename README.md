@@ -1,7 +1,7 @@
 # Hi there, I'm Arda! 👋
 
 ### 🚀 About Me
-I am a software developer and tech enthusiast focused on building desktop applications and exploring network systems. I enjoy working on the intersection of database management and user-friendly interface design.
+I am a computer programmer and tech enthusiast focused on building desktop applications. I enjoy working on the intersection of database management and user-friendly interface design.
 
 - 💻 **C# Development:** Focused on creating Windows Forms applications with clean UI and functional logic.
 - 🗄️ **Database Management:** Designing and managing SQL Server databases for data-driven applications.
