@@ -22,9 +22,9 @@ I am a software developer and tech enthusiast focused on building desktop applic
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ab5002-debug&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardabaki&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab5002-debug&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabaki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
