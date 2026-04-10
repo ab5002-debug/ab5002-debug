@@ -22,12 +22,11 @@ I am a computer programmer and tech enthusiast focused on building desktop appli
 
 ---
 
-📈 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ab5002-debug&show_icons=true&theme=radical&hide_border=false" alt="Arda's GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab5002-debug&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark)
 
 ---
 
