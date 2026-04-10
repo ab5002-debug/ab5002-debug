@@ -21,11 +21,17 @@ I am a computer programmer and tech enthusiast focused on building desktop appli
 </p>
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ab5002-debug&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ab5002-debug&show_icons=true&theme=dark" />
+</p>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ab5002-debug&layout=compact&theme=dark)
+<h2 align="center">💻 Top Languages</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ab5002-debug&layout=compact&theme=dark" />
+</p>
 
 ---
 
