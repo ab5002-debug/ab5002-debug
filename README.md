@@ -1,6 +1,6 @@
-# Hi there, I'm Arda! 👋
+# Hi there, I'm Arda! 
 
-### 🚀 About Me
+###  About Me
 I am a computer programmer and tech enthusiast focused on building desktop applications. I enjoy working on the intersection of database management and user-friendly interface design.
 
 - 💻 **C# Development:** Focused on creating Windows Forms applications with clean UI and functional logic.
