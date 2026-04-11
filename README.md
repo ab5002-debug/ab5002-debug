@@ -31,7 +31,7 @@ I am a computer programmer and tech enthusiast focused on building desktop appli
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ab5002-debug&layout=compact&theme=dark" />
 </p>
-<br>
+
 ---
 
 ### 📫 Let's Connect!
